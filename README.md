@@ -1,6 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Generative UI session | AI Dev TLV 2024
+## Generative UI session | AI Dev TLV 2024 Test
+
 
 Reference code for the Generative UI session at AI Dev TLV 2024.
 
